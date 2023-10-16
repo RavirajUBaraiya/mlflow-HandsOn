@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d24aff109b494b45b9a874d9567b36c4/artifacts
+deleted_time: 1697457314488
+end_time: 1697454898238
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d24aff109b494b45b9a874d9567b36c4
+run_name: ''
+run_uuid: d24aff109b494b45b9a874d9567b36c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697454882348
+status: 4
+tags: []
+user_id: ravirajbhai.bara
