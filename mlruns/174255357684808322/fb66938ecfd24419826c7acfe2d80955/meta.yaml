@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/174255357684808322/fb66938ecfd24419826c7acfe2d80955/artifacts
+end_time: 1697452150795
+entry_point_name: ''
+experiment_id: '174255357684808322'
+lifecycle_stage: active
+run_id: fb66938ecfd24419826c7acfe2d80955
+run_name: fortunate-eel-275
+run_uuid: fb66938ecfd24419826c7acfe2d80955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697452144258
+status: 3
+tags: []
+user_id: ravirajbhai.bara
